@@ -1,2 +1,2 @@
 # shopping-cart
-I try created a shopping-cart project with the help Nodejs/Express/MongoDB
+I try to created a shopping-cart project with the help Nodejs/Express/MongoDB
